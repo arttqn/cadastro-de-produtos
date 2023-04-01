@@ -10,4 +10,5 @@ for (let i = 0; i < numeros.length; i++) {
   } else {
     console.log(numeros[i] + " é um número ímpar");
   }
+  //Comando De Testes
 }
