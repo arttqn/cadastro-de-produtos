@@ -13,3 +13,9 @@ para execultar o arquivo **app.js** vamos itilizar o node.js
 ```
 npm app.js
 ```
+```
+npm app.js
+```
+```
+npm app.js
+```
